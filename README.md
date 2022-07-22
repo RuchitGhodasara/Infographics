@@ -3,7 +3,7 @@
 In the first year of BTech, we had many assignments involving infographics as a part of, or as a final submission. Some of them were group work. Here, I am putting some of my contribution.
 
 #### Calculus:
-() This group assignment was about any application involving formulas of calculus. We chose Weather prediction as our domain and focused upon Horizontal Momentum Equation, meauring a flow of wing. Final submission was in a form of class presentation of the infographic pasted here. I contributed in designing as well as collecting information about basics of weather.
+This group assignment was about any application involving formulas of calculus. We chose Weather prediction as our domain and focused upon Horizontal Momentum Equation, meauring a flow of wing. Final submission was in a form of class presentation of the infographic pasted here. I contributed in designing as well as collecting information about basics of weather.
 
 #### Data Science:
 In the course of Data Science, we had an assignment of making a detailed info-graph. We, the group of three, divided total number of submissions among ourselves, and prepared an individual charts. We suggested changes to each other. And, these two are which I prepared. 
