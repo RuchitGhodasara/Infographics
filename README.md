@@ -1,9 +1,9 @@
 # Infographics
 
-In the first semester of BTech, we had many assignments involving infographics as a part of, or as a final submission. Some of them were group work. Here, I am putting some of my contribution.
+In the first year of BTech, we had many assignments involving infographics as a part of, or as a final submission. Some of them were group work. Here, I am putting some of my contribution.
 
 #### Calculus:
-This group assignment was about any application involving formulas of calculus. We chose Weather prediction as our domain and focused upon Horizontal Momentum Equation, meauring a flow of wing. Final submission was in a form of class presentation of the infographic pasted here. I contributed in designing as well as collecting information about basics of weather.
+() This group assignment was about any application involving formulas of calculus. We chose Weather prediction as our domain and focused upon Horizontal Momentum Equation, meauring a flow of wing. Final submission was in a form of class presentation of the infographic pasted here. I contributed in designing as well as collecting information about basics of weather.
 
 #### Data Science:
 In the course of Data Science, we had an assignment of making a detailed info-graph. We, the group of three, divided total number of submissions among ourselves, and prepared an individual charts. We suggested changes to each other. And, these two are which I prepared. 
@@ -13,3 +13,6 @@ In the course of Data Science, we had an assignment of making a detailed info-gr
 
 ##### (2) Climate Change
 &emsp; I got more formal understanding of this outspoken issue. Not containing too much numbers, I made it simple to understand the issue as a whole. I pasted plentiful images and graphics instead of lines of text. Easy to read, this graphics may be used for a primary level students.
+
+#### Neighbourhood:
+(The picture story) In the foundation studio about Neighborhood, we had an individual Assinment where we had to depict idea of neighbourhood in a comic form.
